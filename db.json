@@ -1,0 +1,30 @@
+var myJSON = '{
+  "users" : [
+    {
+      "email": "maria@gmail.com",
+      "pasword": "abcd"
+    
+    },
+    {
+      "email": "marta@gmail.com",
+      "pasword": "abcd"
+    },
+    {
+      "email": "laura@gmail.com",
+      "pasword": "abcd"
+    },
+    {
+      "email": "pau@gmail.com",
+      "pasword": "abcd"
+
+    },
+    {
+      "email": "joan@gmail.com",
+      "pasword": "abcd"
+    },
+    {
+      "email": "alex@gmail.com",
+      "pasword": "abcd"
+    }
+  ]
+}';
